@@ -1,0 +1,4 @@
+Bonjour MrDufroy Voici mon blog par totalement fini
+J'ai eu quelques soucis avec Phpmyadmin et donc je n'arrivais pas à utiliser le SQL sinon en codage je me suis débrouillé en cherchant sur l'internet
+Pour ma part je trouve que j'ai beaucoup de difficulté avec Phpmyadmin
+Cordialement,
